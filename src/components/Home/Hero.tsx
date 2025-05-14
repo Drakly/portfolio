@@ -2,7 +2,6 @@ import React from 'react';
 import styled from 'styled-components';
 import { motion } from 'framer-motion';
 import Button from '../UI/Button';
-import { Link } from 'react-router-dom';
 import { scrollToElement } from '../../utils/scrollToElement';
 
 const HeroSection = styled.section`
