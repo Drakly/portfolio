@@ -1,46 +1,86 @@
-# Getting Started with Create React App
+# Kristian Kirilov Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern portfolio website showcasing my work as a Java Full-Stack Developer, built with React, TypeScript, and Three.js.
 
-## Available Scripts
+![Portfolio Preview](./public/images/portfolio-preview.jpg)
 
-In the project directory, you can run:
+## 🚀 Features
 
-### `npm start`
+- **Responsive Design**: Fully responsive layout that works on all devices
+- **React & TypeScript**: Modern frontend with type safety
+- **3D Elements**: Interactive 3D elements with Three.js and React Three Fiber
+- **Animations**: Smooth animations with Framer Motion
+- **Contact Form**: Functional contact form using Netlify Forms
+- **Modern UI**: Clean and professional UI with styled-components
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 📋 Sections
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- **Hero**: Introduction with animated elements
+- **About**: Professional background and skills
+- **3D Scene**: Interactive Java-themed 3D visualization
+- **Projects**: Showcase of selected projects with details
+- **Contact**: Contact form with Netlify Forms integration
 
-### `npm test`
+## 🛠️ Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React
+- TypeScript
+- Three.js
+- React Three Fiber
+- Framer Motion
+- Styled Components
+- React Router
+- Netlify Deployment & Forms
 
-### `npm run build`
+## 🔧 Installation & Setup
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository
+```bash
+git clone https://github.com/Drakly/portfolio.git
+cd portfolio
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Install dependencies
+```bash
+npm install
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Start the development server
+```bash
+npm start
+```
 
-### `npm run eject`
+4. Build for production
+```bash
+npm run build
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🌐 Deployment
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This site is configured for easy deployment to Netlify. The configuration includes:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Automatic handling of React Router routes
+- Contact form with email notifications
+- Optimized build process
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Drakly/portfolio)
 
-## Learn More
+## 📬 Contact Form
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The contact form is set up with Netlify Forms, which allows you to receive emails when someone submits the form. It includes:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Spam protection with honeypot fields
+- Email notifications to your specified email
+- Easy setup with no backend code required
+
+## 📄 License
+
+This project is available for use under the MIT License.
+
+---
+
+## 👨‍💻 About Me
+
+Java Full-Stack Developer with expertise in building robust, scalable applications. With a strong foundation in both backend and frontend technologies, I create end-to-end solutions that deliver exceptional user experiences while maintaining solid architecture.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/kristian-kirilov-05998531b/).
